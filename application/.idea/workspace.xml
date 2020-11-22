@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a722595b-d576-47b5-a040-679e20479879" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZVayQAqvWzh1ybvewDXKcUsUDn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a722595b-d576-47b5-a040-679e20479879" name="Default Changelist" comment="" />
+      <created>1584926968513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584926968513</updated>
+      <workItem from="1584926969676" duration="2703000" />
+      <workItem from="1585003416047" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="91" key="#Inspections" timestamp="1584943737106">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="320" y="91" key="#Inspections/0.23.1440.806@0.23.1440.806" timestamp="1584943737106" />
+    <state x="482" y="94" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584927109005">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="482" y="94" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.806@0.23.1440.806" timestamp="1584927109005" />
+    <state x="538" y="356" key="NewPhpFileDialog" timestamp="1584941848057">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="538" y="356" key="NewPhpFileDialog/0.23.1440.806@0.23.1440.806" timestamp="1584941848057" />
+    <state x="397" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1585021430121">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="397" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1585021430121" />
+  </component>
+</project>

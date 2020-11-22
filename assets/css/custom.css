@@ -1,0 +1,75 @@
+/*nav*/
+nav h3 {
+	font-family: 'Pacifico', cursive;
+	text-align: right;
+}
+
+nav h3:first-child{
+	text-align: left;
+}
+
+nav h3 a:hover {
+	text-decoration: none;
+}
+
+nav {
+	border-bottom: solid 1px gray;
+}
+
+/*footer*/
+footer .col-md-2{
+	padding: 20px;
+}
+
+footer {
+	border-top: solid 1px gray;
+}
+
+/*default view*/
+.searching {
+	padding: 5em;
+}
+
+fieldset {
+	width: 100%;
+}
+
+/*register*/
+.r_and_l {
+	display: flex;
+	justify-content: center;
+	padding: 5em;
+}
+
+.r_and_l .self {
+	display: flex;
+}
+
+.r_and_l h1 {
+	padding: 1em;
+}
+
+.r_and_l .halvingLine {
+	background: gray;
+	width: 1px;
+	margin: 0 50px;
+}
+
+/*profile*/
+
+th {
+	color: darkgray ;
+}
+
+
+/*chat room*/
+/*#chat {*/
+/*	width: 200px;*/
+/*	height: 300px;*/
+/*	background: #CCCCCC;*/
+/*	position: absolute;*/
+/*}*/
+
+/*Drag and Drop*/
+
+
